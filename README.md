@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, meu nome é Gilvan!  
 
-<!--
-**Shadowtutor/Shadowtutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sempre trabalhei com atendimento ao público e vendas, acumulando mais de **14 anos de experiência**. Durante os últimos cinco anos, atuei como vendedor no comércio varejista e tecnológico no Amazonas, utilizando **sistemas CRM** para cadastro, acompanhamento e comunicação com clientes.  
 
-Here are some ideas to get you started:
+Em 2023, descobri uma nova paixão: **desenvolvimento de software**. Atualmente, curso **Análise e Desenvolvimento de Sistemas (3º período)** e estou em transição para a área de Tecnologia da Informação.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Habilidades & Tecnologias  
+- **Linguagens:** Java, JavaScript, HTML, CSS  
+- **Ferramentas:** Git, Power BI, SQL  
+- **Outros conhecimentos:** Redes, Hardware, Software, Scrum, Kanban  
+
+💼 **Busco oportunidades na área de TI**, com foco no desenvolvimento de softwares que facilitem a vida das pessoas.  
+
+📫 Vamos conectar? Me envie uma mensagem!  
