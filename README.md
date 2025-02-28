@@ -5,9 +5,10 @@ Sempre trabalhei com atendimento ao público e vendas, acumulando mais de **14 a
 Em 2023, descobri uma nova paixão: **desenvolvimento de software**. Atualmente, curso **Análise e Desenvolvimento de Sistemas (3º período)** e estou em transição para a área de Tecnologia da Informação.  
 
 ### 💡 Habilidades & Tecnologias  
-- **Linguagens:** Java, JavaScript, HTML, CSS  
-- **Ferramentas:** Git, Power BI, SQL  
-- **Outros conhecimentos:** Redes, Hardware, Software, Scrum, Kanban  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 💼 **Busco oportunidades na área de TI**, com foco no desenvolvimento de softwares que facilitem a vida das pessoas.  
 
