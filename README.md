@@ -21,6 +21,21 @@ Em 2023, descobri uma nova paixão: **desenvolvimento de software**. Atualmente,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-💼 **Busco oportunidades na área de TI**, com foco no desenvolvimento de softwares que facilitem a vida das pessoas.  
 
-📫 Vamos conectar? Me envie uma mensagem!  
+Minha trajetória sempre foi voltada a **entender as necessidades das pessoas** e criar soluções que realmente impactem o cotidiano delas. Hoje, na área de TI, busco unir minha experiência com a tecnologia para **facilitar processos** e **transformar vidas**.
+
+Estou em constante aprendizado e procuro projetos que me desafiem a crescer, ao mesmo tempo que permitam **contribuir de forma significativa**. 
+
+Se você também acredita no poder da tecnologia para gerar mudanças positivas, **vamos nos conectar** e trocar ideias.
+
+**Contatos:**
+
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilvandaniel?igsh=MW9tMGx0bGZka2Vmdw==)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvan-daniel-da-silva-b52637114)
+
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZMkok5gAb/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilvandnel@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%234CBB6A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/FRVFVIUBESLVD1)
