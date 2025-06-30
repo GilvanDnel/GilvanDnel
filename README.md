@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gilvan Daniel da Silva!
 
-Proffisional com mais de **14 anos de experiência** no setor de **Atendimento ao Público e Vendas**. 
+Profisional com mais de **14 anos de experiência** no setor de **Atendimento ao Público e Vendas**. 
 Nos últimos cinco anos atuei no comércio varejista e tecnológico em Manaus-AM. Minhas **responsabilidades** incluíam atendimento ao público, prospecção e cadastro de clientes em **sistema CRM**, suporte ao cliente, transmissão de conhecimento sobre produtos, testes de produtos, organização de setor, e gestão completa do ciclo de vendas, incluindo pós-venda e alcance de metas e resultados.
 
 Minha trajetória sempre foi focada em **entender as necessidades das pessoas** e **criar soluções** que impactem positivamente o cotidiano.
