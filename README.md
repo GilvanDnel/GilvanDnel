@@ -1,14 +1,13 @@
 # 👋 Olá, eu sou Gilvan Daniel da Silva!
 
-Com mais de **14 anos de experiência** no setor de **Atendimento ao Público e Vendas**, atuei nos últimos cinco anos no comércio varejista e tecnológico, utilizando **sistemas CRM** para gestão de clientes no Amazonas. Minha trajetória sempre foi focada em **entender as necessidades das pessoas** e **criar soluções** que impactem positivamente o cotidiano.
+Com mais de **14 anos de experiência** no setor de **Atendimento ao Público e Vendas**, atuei nos últimos cinco anos como vendedor de comércio varejista e tecnológico, utilizando **sistemas CRM** para gestão de clientes no Amazonas. Minha trajetória sempre foi focada em **entender as necessidades das pessoas** e **criar soluções** que impactem positivamente o cotidiano.
 
-Em 2023, iniciei minha transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (3º período)** e buscando combinar minha experiência em relacionamento interpessoal com as habilidades técnicas para **facilitar processos** e **transformar realidades através da tecnologia**.
+Em 2023, iniciei minha transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (4º período)** e buscando combinar minha experiência em relacionamento interpessoal com as habilidades técnicas para **facilitar processos** e **transformar realidades através da tecnologia**.
 
 ### 💻 **Habilidades Técnicas e Ferramentas:**
 
 * **Linguagens de Programação (Conhecimento Básico):**
-    * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    * ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+    * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) * ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 * **Controle de Versão:**
     * ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     * ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
