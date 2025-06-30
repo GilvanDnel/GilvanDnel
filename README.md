@@ -1,8 +1,14 @@
+<div align="center">
+  <img src="https://github.com/GilvanDwel/GilvanDwel/assets/164741437/10842065-9854-4fb9-a937-29002f23b715" alt="Foto de Perfil de Gilvan Daniel da Silva" width="150px"/>
+</div>
+
 # 👋 Olá, eu sou Gilvan Daniel da Silva!
 
-Com mais de **14 anos de experiência** no setor de **Atendimento ao Público e Vendas**, atuei nos últimos cinco anos no comércio varejista e tecnológico, utilizando **sistemas CRM** para gestão de clientes no Amazonas. Minha trajetória sempre foi focada em **entender as necessidades das pessoas** e **criar soluções** que impactem positivamente o cotidiano.
+Com mais de **14 anos de experiência** no setor de **Atendimento ao Público e Vendas**, atuei nos últimos cinco anos no comércio varejista e tecnológico em Manaus, Amazonas. Minhas **responsabilidades** incluíam atendimento ao público, prospecção e cadastro de clientes em **sistema CRM**, suporte ao cliente, transmissão de conhecimento sobre produtos, testes de produtos, organização de setor, e gestão completa do ciclo de vendas, incluindo pós-venda e alcance de metas e resultados.
 
-Em 2023, iniciei minha transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (3º período)** e buscando combinar minha experiência em relacionamento interpessoal com as habilidades técnicas para **facilitar processos** e **transformar realidades através da tecnologia**.
+Minha trajetória sempre foi focada em **entender as necessidades das pessoas** e **criar soluções** que impactem positivamente o cotidiano.
+
+Em 2023, iniciei minha transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (3º período)** e buscando combinar minha sólida experiência em relacionamento interpessoal e processos de vendas com as habilidades técnicas para **facilitar processos** e **transformar realidades através da tecnologia**.
 
 ### 💻 Habilidades Técnicas e Ferramentas:
 
