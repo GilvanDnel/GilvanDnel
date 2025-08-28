@@ -1,11 +1,22 @@
 # 👋 Olá, eu sou Gilvan Daniel da Silva!
 
-Profisional com mais de **14 anos de experiência** no setor de **Atendimento ao Público e Vendas**. 
-Nos últimos cinco anos atuei no comércio varejista e tecnológico em Manaus-AM. Minhas **responsabilidades** incluíam atendimento ao público, prospecção e cadastro de clientes em **sistema CRM**, suporte ao cliente, transmissão de conhecimento sobre produtos, testes de produtos, organização de setor, e gestão completa do ciclo de vendas, incluindo pós-venda e alcance de metas e resultados.
+Desenvolvedor de Software apaixonado por resolver problemas reais e otimizar processos através da tecnologia. Minha força está em analisar sistemas existentes, identificar pontos de melhoria e construir soluções que sejam não apenas eficientes, mas também intuitivas para o usuário final.
 
-Minha trajetória sempre foi focada em **entender as necessidades das pessoas** e **criar soluções** que impactem positivamente o cotidiano.
+Um exemplo prático do meu trabalho foi a criação de uma aplicação web para automatizar a geração e o envio de 1.800 certificados em um projeto universitário. Utilizando JavaScript, HTML e CSS, transformei um processo manual que levaria semanas em uma tarefa de poucas horas. Neste projeto, utilizei ferramentas de IA para acelerar a codificação inicial, o que me permitiu focar meu tempo em testar a solução, aprimorar a interface e garantir uma entrega de alta qualidade para o usuário.
 
-Em 2023, iniciei minha transição de carreira para a área de Tecnologia da Informação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (3º período)** e buscando combinar minha sólida experiência em relacionamento interpessoal e processos de vendas com as habilidades técnicas para **facilitar processos** e **transformar realidades através da tecnologia**.
+Acredito que a maior parte do trabalho de um desenvolvedor é evoluir e manter o que já foi construído. Tenho uma grande facilidade em ler e entender códigos existentes para corrigir bugs ou adicionar novas funcionalidades. Sou um profissional colaborativo, que sabe se comunicar e que entende a dinâmica de trabalho em equipes ágeis.
+
+Principais Competências:
+
+Linguagens: JavaScript, Java, Python, C, SQL
+
+Desenvolvimento Web: HTML5, CSS3
+
+Ferramentas e Metodologias: Git, GitHub, VS Code, Scrum, Kanban, Agile
+
+Habilidades: Resolução de Problemas, Automação de Processos, Foco no Usuário (UX), Trabalho em Equipe.
+
+Busco uma oportunidade como Desenvolvedor Júnior para contribuir com uma equipe dinâmica, aplicar minha capacidade de análise e continuar aprendendo todos os dias. Vamos conectar!
 
 ### 💻 Habilidades Técnicas e Ferramentas:
 
