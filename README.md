@@ -46,10 +46,6 @@ Busco uma oportunidade como Desenvolvedor Júnior para contribuir com uma equipe
 
 <br>
 
-Estou em constante aprendizado e busco ativamente oportunidades e projetos que me desafiem a crescer, ao mesmo tempo em que permitam **contribuir de forma significativa** para equipes e objetivos da empresa.
-
-Se você também acredita no poder da tecnologia para gerar mudanças positivas e valoriza uma comunicação eficaz, **vamos nos conectar e trocar ideias!**
-
 ### ✉️ Conecte-se Comigo:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
