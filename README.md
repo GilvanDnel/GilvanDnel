@@ -32,17 +32,15 @@ Além disso, trabalho como desenvolvedor de software freelancer, focado em solu�
 
 ---
 
-### 📊 Estatísticas do GitHub e Tempo de Código
+Minhas Estatísticas e Linguagens
 
 <p align="center">
-  <!-- Cartão de Estatísticas Gerais com a Nota (Rank) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GilvanDnel&show_icons=true&theme=radical" height="180" alt="Estatísticas do Gilvan" />
+  <!-- Cartão de Estatísticas Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GilvanDnel&show_icons=true&theme=radical" height="160" alt="Estatísticas do Gilvan" />
   
-  <!-- Cartão do WakaTime -->
-  <!-- ATENÇÃO: Substitua 'SEU_USUARIO_WAKATIME' pelo seu nome de usuário real criado na plataforma WakaTime -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=radical&layout=compact" height="180" alt="Estatísticas Wakatime" />
+  <!-- Cartão de Linguagens (Lê as linguagens dos seus projetos públicos) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GilvanDnel&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" height="160" alt="Linguagens Mais Usadas" />
 </p>
-
 ---
 
 ### 📫 Como me encontrar
