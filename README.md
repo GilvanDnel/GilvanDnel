@@ -1,46 +1,51 @@
-# Olá, eu sou o Gilvan Daniel da Silva! 👋
+### Olá, eu sou o Gilvan Daniel da Silva! 👋
 
-### Analista de Sistemas | Programador Python | RPA | Java Script | Testes | Aluno pesquisador bolsista no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM
+##### Analista de Sistemas | Programador Python | RPA | Java Script | Testes | Aluno pesquisador bolsista no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM
 
-Atualmente, sou aluno pesquisador no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM, colaborando no projeto AX Academy, uma iniciativa voltada para pesquisa e capacitação em Transformação Digital. Minha atuação inclui desenvolvimento em automação e RPA, utilizando ferramentas como Python, Selenium e BotCity. Paralelamente, estou me capacitando em ciência de dados, mineração de dados e machine learning no âmbito do projeto.  
+Atualmente, sou aluno pesquisador no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM, colaborando no projeto AX Academy, uma iniciativa voltada para pesquisa e capacitação em Transformação Digital. Minha atuação inclui desenvolvimento em automação e RPA, utilizando ferramentas como Python, Selenium e BotCity. Paralelamente, estou me capacitando em ciência de dados, mineração de dados e machine learning no âmbito do projeto.
 
 Além disso, trabalho como desenvolvedor de software freelancer, focado em soluções de automação e desenvolvimento web e mobile. Entre as minhas entregas, destacam-se scripts em Python para RPA, interfaces responsivas com React e Firebase e ferramentas de análise semântica de dados utilizando APIs de modelos de linguagem. Minha formação em andamento inclui Análise e Desenvolvimento de Sistemas pela ESBAM e Técnico em Suporte e Manutenção pelo CETAM, complementando minha experiência prática com um sólido embasamento acadêmico.
 
 ---
 
-### Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![RPA](https://img.shields.io/badge/RPA-BotCity%20%7C%20Playwright-blue?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### Projetos em Destaque
-
-* **SentinelRH:** Ferramenta de RPA voltada para auditoria de espelhos de ponto e conformidade trabalhista.
-* **AMEOAM:** Sistema que une RPA e IA para triagem de perfis e mitigação de estresse ocupacional.
-* **Sabor na Medida:** Aplicativo mobile desenvolvido com React Native e Firebase para gestão de comércio universitário.
-* **Automação de Certificados:** Script que automatizou a entrega de mais de 1.800 certificados via Google Apps Script.
-
----
-
-### 📊 Estatísticas do GitHub
+### 🛠️ Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilvanDnel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Gilvan" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanDnel&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <!-- Gráfico Donut de Linguagens Dinâmico -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GilvanDnel&layout=donut&theme=radical&langs_count=6" height="180" alt="Linguagens Mais Usadas do Gilvan" />
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+*(Estes cards são gerados dinamicamente e mostram estrelas e forks dos seus projetos em tempo real)*
+
+<p align="center">
+  <!-- Extra Pins: Substitua 'SentinelRH' e 'AMEOAM' pelo nome exato em que o repositório foi salvo, se houver espaços ou diferenças -->
+  <a href="https://github.com/GilvanDnel/SentinelRH">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=GilvanDnel&repo=SentinelRH&theme=radical" width="400" alt="SentinelRH" />
+  </a>
+  <a href="https://github.com/GilvanDnel/AMEOAM">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=GilvanDnel&repo=AMEOAM&theme=radical" width="400" alt="AMEOAM" />
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub e Tempo de Código
+
+<p align="center">
+  <!-- Cartão de Estatísticas Gerais com a Nota (Rank) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GilvanDnel&show_icons=true&theme=radical" height="180" alt="Estatísticas do Gilvan" />
+  
+  <!-- Cartão do WakaTime -->
+  <!-- ATENÇÃO: Substitua 'SEU_USUARIO_WAKATIME' pelo seu nome de usuário real criado na plataforma WakaTime -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=radical&layout=compact" height="180" alt="Estatísticas Wakatime" />
 </p>
 
 ---
 
 ### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
----
-*Localizado em Manaus/AM 📍*
+* Localizado em Manaus/AM 📍
+* [LinkedIn](https://www.linkedin.com/in/gilvan-daniel-da-silva-b52637114/)
+* [Facebook](https://www.facebook.com/share/p/19Vn64AXYM/)
