@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor focado em transformar processos manuais e repetitivos em soluções automatizadas de alto impacto. Com uma trajetória profissional de cerca de 14 anos na área de vendas e atendimento ao cliente, trago uma visão estratégica focada em resolver problemas reais e melhorar a experiência do usuário através da tecnologia.
 
-Natural da região da Camaçaro Bahoa, morei por um longo período no Rio de Janeiro e atualmente resido em Manaus/AM, estou no **5º período de Análise e Desenvolvimento de Sistemas (ESBAM)**, cursando Técnico em Manutenção e Suporte em Informática (CETAM). Atuo como **aluno pesquisador bolsista no projeto AXacademy** (parceria LG e IFAM/Inova), onde pesquiso Transformação Digital, arquitetura RPA e exploro o universo da Ciência de Dados e Machine Learning.
+Natural da região da Camaçari, Bahia, morei por um longo período no Rio de Janeiro e atualmente resido em Manaus/AM, estou no **5º período de Análise e Desenvolvimento de Sistemas (ESBAM)**, cursando Técnico em Manutenção e Suporte em Informática (CETAM). Atuo como **aluno pesquisador bolsista no projeto AXacademy** (parceria LG e IFAM/Inova), onde pesquiso Transformação Digital, arquitetura RPA e exploro o universo da Ciência de Dados e Machine Learning.
 
 ---
 
