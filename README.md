@@ -1,6 +1,6 @@
 # Olá, eu sou o Gilvan Daniel da Silva! 👋
 
-### Desenvolvedor de Software | Especialista em Automação (RPA) & Python
+###  Analista de Sistemas | Programador Python | RPA | Java Script | Testes | Aluno pesquisador bolsista no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM
 
 Sou um desenvolvedor focado em transformar processos manuais e repetitivos em soluções automatizadas de alto impacto. Com uma trajetória profissional de cerca de 14 anos na área de vendas e atendimento ao cliente, trago uma visão estratégica focada em resolver problemas reais e melhorar a experiência do usuário através da tecnologia.
 
