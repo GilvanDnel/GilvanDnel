@@ -41,10 +41,10 @@ Natural da região da Camaçari, Bahia, morei por um longo período no Rio de Ja
 ### 📫 Conecte-se comigo
 
 <div align="left">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:gilvandnel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/gilvan-daniel-da-silva-b52637114/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
