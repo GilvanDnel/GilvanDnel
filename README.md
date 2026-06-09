@@ -1,9 +1,8 @@
 # Gilvan Daniel da Silva
 
-Analista de Sistemas em formacao, desenvolvedor Python e entusiasta de automacao, RPA, dados e solucoes web. Tenho experiencia profissional em atendimento e vendas, o que influencia meu jeito de construir tecnologia: foco em problema real, clareza para o usuario e impacto pratico.
-
-Atualmente estudo Analise e Desenvolvimento de Sistemas e desenvolvo projetos academicos, MVPs, automacoes e aplicacoes web.
-
+Graduando em Análise e Desenvolvimento de Sistemas pela ESBAM, com formação complementar pelo IFAM em Transformação Digital, abrangendo Python, RPA, Ciência de Dados, Data Mining, Machine Learning, Hiperautomação e Agentes Inteligentes.
+Tenho experiência acadêmica e prática com Java, JavaScript, Python, C, SQL, desenvolvimento web/mobile, automação de processos, análise de requisitos e projetos com Arduino/ESP32-CAM.
+Busco aprofundar meus conhecimentos em Machine Learning, IA, robótica, IoT e sistemas embarcados para desenvolver soluções que integrem software, dados e dispositivos físicos, com foco em aplicações úteis para educação, gestão, inclusão digital e impacto social.
 ## Foco atual
 
 - Python, automacao e RPA
