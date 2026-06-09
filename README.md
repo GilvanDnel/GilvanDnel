@@ -9,7 +9,6 @@ Busco aprofundar meus conhecimentos em Machine Learning, IA, robótica, IoT e si
 - Ciencia de dados e validacao de modelos de IA
 - Frontend com HTML, CSS, JavaScript e React Native
 - Projetos educacionais, sustentabilidade e inclusao digital
-- Organizacao de portfolio tecnico no GitHub
 
 ## Tecnologias
 
