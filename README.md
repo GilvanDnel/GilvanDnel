@@ -26,7 +26,7 @@ Atualmente estudo Analise e Desenvolvimento de Sistemas e desenvolvo projetos ac
 
 | Projeto | Area | Link |
 |---|---|---|
-| Portfolio | Site pessoal | https://gilvandnel.github.io/1-Portifolio/ |
+| Portfolio | Site pessoal | https://gilvandnel.github.io/projectsdnel/ |
 | demodayII | IA / Streamlit / validacao de modelos | https://github.com/GilvanDnel/demodayII |
 | Projeto E-lixo | Sustentabilidade / Firebase / Web | https://gilvandnel.github.io/Projeto-E-lixo/ |
 | Alfabetiza-o-Digital | Educacao / inclusao digital | https://gilvandnel.github.io/Alfabetiza-o-Digital/ |
