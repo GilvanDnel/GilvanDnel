@@ -1,53 +1,40 @@
-# Olá, eu sou o Gilvan Daniel da Silva! 👋
+# Gilvan Daniel da Silva
 
-###  Analista de Sistemas | Programador Python | RPA | Java Script | Testes | Aluno pesquisador bolsista no Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM
+Analista de Sistemas em formacao, desenvolvedor Python e entusiasta de automacao, RPA, dados e solucoes web. Tenho experiencia profissional em atendimento e vendas, o que influencia meu jeito de construir tecnologia: foco em problema real, clareza para o usuario e impacto pratico.
 
-Sou um desenvolvedor focado em transformar processos manuais e repetitivos em soluções automatizadas de alto impacto. Com uma trajetória profissional de cerca de 14 anos na área de vendas e atendimento ao cliente, trago uma visão estratégica focada em resolver problemas reais e melhorar a experiência do usuário através da tecnologia.
+Atualmente estudo Analise e Desenvolvimento de Sistemas e desenvolvo projetos academicos, MVPs, automacoes e aplicacoes web.
 
-Natural da região da Camaçari, Bahia, morei por um longo período no Rio de Janeiro e atualmente resido em Manaus/AM, estou no **5º período de Análise e Desenvolvimento de Sistemas (ESBAM)**, cursando Técnico em Manutenção e Suporte em Informática (CETAM). Atuo como **aluno pesquisador bolsista no projeto AXacademy** (parceria LG e IFAM/Inova), onde pesquiso Transformação Digital, arquitetura RPA e exploro o universo da Ciência de Dados e Machine Learning.
+## Foco atual
 
----
+- Python, automacao e RPA
+- Ciencia de dados e validacao de modelos de IA
+- Frontend com HTML, CSS, JavaScript e React Native
+- Projetos educacionais, sustentabilidade e inclusao digital
+- Organizacao de portfolio tecnico no GitHub
 
-### 💻 Tecnologias e Ferramentas
+## Tecnologias
 
-**Linguagens & Frontend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Automação, RPA & Dados:**
-![BotCity](https://img.shields.io/badge/BotCity-FF4F00?style=for-the-badge&logo=botcity&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Cloud & Backend:**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
----
+## Projetos publicos em destaque
 
-### 🚀 Projetos em Destaque
+| Projeto | Area | Link |
+|---|---|---|
+| Portfolio | Site pessoal | https://gilvandnel.github.io/1-Portifolio/ |
+| demodayII | IA / Streamlit / validacao de modelos | https://github.com/GilvanDnel/demodayII |
+| Projeto E-lixo | Sustentabilidade / Firebase / Web | https://gilvandnel.github.io/Projeto-E-lixo/ |
+| Alfabetiza-o-Digital | Educacao / inclusao digital | https://gilvandnel.github.io/Alfabetiza-o-Digital/ |
+| PerfilEbam-AppReact | React Native / mobile | https://github.com/GilvanDnel/PerfilEbam-AppReact |
+| IncluirTec | Projeto de extensao / jogo educativo | https://github.com/GilvanDnel/IncluirTec |
 
-* **SentinelRH:** Ferramenta automatizada para auditoria de logs de ponto de funcionários, focada em conformidade e compliance trabalhista.
-* **AMEOAM:** Sistema que integra RPA e Inteligência Artificial para mitigar o estresse ocupacional e automatizar a triagem de perfis.
-* **Sabor na Medida:** Aplicativo mobile desenvolvido em React Native e Firebase, criado para gerenciar e conectar o comércio universitário entre alunos vendedores e clientes.
-* **Automação de Certificados:** Script em Google Apps Script para disparo em massa e gerenciamento logístico de mais de 1.800 certificados.
+## Contato
 
----
-
-### 📫 Conecte-se comigo
-
-<div align="left">
-  <a href="mailto:gilvandnel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gilvan-daniel-da-silva-b52637114/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br>
-<p>📍 <b>Localização:</b> Manaus, Amazonas - Brasil</p>
+- Email: gilvandnel@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gilvan-daniel-da-silva-b52637114/
+- GitHub: https://github.com/GilvanDnel
