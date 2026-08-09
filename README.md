@@ -37,7 +37,5 @@ Até mais!
 | IncluirTec | Projeto de extensao / jogo educativo | https://github.com/GilvanDnel/IncluirTec |
 
 ## Contato
-
-- Email: gilvandnel@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gilvan-daniel-da-silva-b52637114/
 - GitHub: https://github.com/GilvanDnel
