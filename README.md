@@ -1,20 +1,14 @@
 # Gilvan Daniel da Silva
 
-Formado em Análise e Desenvolvimento de Sistemas, acredito que a tecnologia existe para resolver problemas reais e facilitar a vida das pessoas.
+Antes da área de TI, construí minha trajetória profissional no atendimento ao cliente. Foi nesse ambiente que desenvolvi uma habilidade que levo para qualquer projeto: entender as necessidades das pessoas para então buscar ou codificar uma solução.
 
-Atualmente participo de três programas públicos de formação em tecnologia: o Web Academy, da Universidade Federal do Amazonas (UFAM); o AX Academy, do Instituto Federal do Amazonas (IFAM); e o curso Técnico em Suporte e Manutenção em TI, do CETAM. Essas experiências têm ampliado minha visão sobre desenvolvimento de software, automação, infraestrutura e boas práticas de tecnologia.
+Sempre gostei de observar processos, identificar oportunidades de melhoria e transformar problemas complexos em rotinas mais simples e eficientes. Foi justamente essa vontade de criar e compartilhar conhecimento que me levou para a tecnologia.
 
-Antes da área de TI, construí minha trajetória profissional no atendimento ao cliente. Foi nesse ambiente que desenvolvi uma habilidade que levo para qualquer projeto: entender as necessidades das pessoas antes de buscar uma solução. Sempre gostei de observar processos, identificar oportunidades de melhoria e transformar problemas em soluções mais simples e eficientes.
+Entre minhas formações estão o Tecnólogo em Análise e Desenvolvimento de Sistemas, o Técnico em Manutenção e Suporte em TI e, atualmente, a Especialização em Tecnologias Digitais do Ensino Básico pela UFAM. Em paralelo, integro dois projetos de P&D em formação tecnológica: o Web Academy (Motorola/ICOMP-UFAM) e o AX Academy (LG/INOVA-IFAM CMDI).
+ 
+Hoje, dedico minha rotina ao desenvolvimento de projetos, análise de requisitos, modelagem de processos (BPMN), metodologias ágeis, testes e inteligência artificial aplicada à produtividade. Com a minha pós-graduação em andamento, meu objetivo atual é expandir essa atuação para a docência em TI e a educação tecnológica, ajudando a capacitar novos profissionais.
 
-Foi justamente essa vontade de criar soluções que me levou para a tecnologia.
-
-Hoje dedico boa parte da minha rotina ao estudo e ao desenvolvimento de projetos envolvendo análise de requisitos, documentação, modelagem de processos (BPMN), metodologias ágeis, Git e GitHub, testes, automação de processos, inteligência artificial aplicada à produtividade e desenvolvimento de software. Acredito que aprender continuamente faz parte da profissão e procuro evoluir um pouco todos os dias.
-
-Estou em busca de oportunidades para iniciar minha carreira na área de TI, contribuir com dedicação, aprender com profissionais mais experientes e crescer junto com equipes que valorizam colaboração, inovação e melhoria contínua.
-
-Se chegou até aqui, obrigado pela visita! Ficarei feliz em conectar e trocar experiências.
-Até mais!
-
+Acredito que aprender continuamente faz parte da profissão. Estou em busca de oportunidades — seja construindo software, otimizando processos ou ensinando tecnologia — que me permitam contribuir e crescer junto a profissionais que valorizam a colaboração e a inovação. Se chegou até aqui, obrigado pela visita! Ficarei feliz em conectar e trocar experiências.
 ## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
