@@ -2,7 +2,7 @@ Antes da área de TI, construí minha trajetória profissional no atendimento ao
 
 
 
-Acredito que o aprendizado contínuo nos dá a capacidade de transformar nosso ambiente, por isso estou sempre buscando um novo aprendizado e entre minhas formações estão, Tecnólogo em Análise e Desenvolvimento de Sistemas, Técnico em Manutenção e Suporte em TI, atualmente estou aguardando o início das aulas da minha Pós Graduação em Tecnologias Digitais do Ensino pela Universidade Federal do Amazonas (EAD) e em paralelo, integro dois projetos de P&D voltados formação tecnológica: o Web Academy (Motorola/ICOMP-UFAM) e o AX Academy (LG/ INOVA-IFAM CMDI).
+Acredito que o aprendizado contínuo nos dá a capacidade de transformar nosso ambiente, por isso estou sempre buscando um novo aprendizado e entre minhas formações estão, Tecnólogo em Análise e Desenvolvimento de Sistemas, Técnico em Manutenção e Suporte em TI, atualmente estou aguardando o início das aulas da minha Pós Graduação em Tecnologias Digitais no Ensino pela Universidade Federal do Amazonas e em paralelo, integro dois projetos de P&D voltados formação tecnológica: o Web Academy (Motorola/ICOMP-UFAM) e o AX Academy (LG/ INOVA-IFAM CMDI).
 
 
 
