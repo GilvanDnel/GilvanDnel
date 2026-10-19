@@ -1,4 +1,4 @@
-#Antes da área de TI, construí minha trajetória profissional no atendimento ao cliente. Foi nesse ambiente que desenvolvi uma habilidade que levo para qualquer projeto: escutar primeiro e entender as necessidades das pessoas vem antes de qualquer oferta de solução. Sempre gostei de observar processos, identificar oportunidades de melhoria e transformar problemas complexos em rotinas mais simples e eficientes. Foi justamente essa vontade de criar e compartilhar conhecimento que me levou para a tecnologia.
+Antes da área de TI, construí minha trajetória profissional no atendimento ao cliente. Foi nesse ambiente que desenvolvi uma habilidade que levo para qualquer projeto: escutar primeiro e entender as necessidades das pessoas vem antes de qualquer oferta de solução. Sempre gostei de observar processos, identificar oportunidades de melhoria e transformar problemas complexos em rotinas mais simples e eficientes. Foi justamente essa vontade de criar e compartilhar conhecimento que me levou para a tecnologia.
 
 
 
